@@ -4,3 +4,8 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - matplotlib
+  - redis
+  - requests
+  - lorem-text
+  - bs4
